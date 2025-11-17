@@ -1,4 +1,25 @@
 body{
     color: white;
     background-color: #524094;
+    font-family: 'Space Mono';
+    font-size: small;
+}
+header{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #2082A6;
+    height: 75px;
+}
+header img{
+    color: grey;
+    background-color: transparent;
+    height: 50px;
+    position: absolute;
+    bottom: 15%;
+}
+header h1{
+    position: absolute;
+    right: 40%;
 }
