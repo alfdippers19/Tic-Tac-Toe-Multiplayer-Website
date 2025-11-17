@@ -37,7 +37,7 @@ header img{
 }
 #select-title{
     position: relative;
-    left: 35%;
+    left: 33%;
     bottom: 5%;
     color: white;
 }
@@ -49,7 +49,7 @@ header img{
     margin-top: 10px;
     display: block;
     position: relative;
-    right: 25%;
+    right: 27%;
     border: 1px solid white;
     border-radius: 20%;
     text-align: center;
