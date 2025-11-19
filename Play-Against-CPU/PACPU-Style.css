@@ -22,5 +22,49 @@ header img{
 }
 header h1{
     position: absolute;
-    right: 41%;
+    right: 43%;
+}
+
+#choose-grid{
+    position: relative;
+    top: 250px;
+    background-color: #01efac;
+    border-color: 2px solid white;
+    border-radius: 10%;
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+}
+#grid-number{
+    position: relative;
+    left: 30%;
+    top: 50px;
+}
+#grid-number-label{
+    position: relative;
+    left: 30%;
+    top: 50px;
+}
+#grid-form{
+    background-color: #01CBAE;
+    border-radius: 20%;
+    position: relative;
+    margin: 0 auto;
+    height: 150px;
+    width: 200px;
+    top: 25px;
+    left: 2%;
+}
+#grid-submit{
+    position: absolute;
+    top: 90px;
+    right: 35%;
+}
+#grid-submit:hover{
+    background-color: #2082A6;
+}
+#choose-grid h3{
+    position: relative;
+    left: 15%;
+    top: 15px;
 }

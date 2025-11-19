@@ -21,13 +21,12 @@ header img{
 }
 header h1{
     position: absolute;
-    right: 41.5%;
+    left: 42%;
 }
 
 #choose-grid{
     position: relative;
     top: 250px;
-    left: 1%;
     background-color: #01efac;
     border-color: 2px solid white;
     border-radius: 10%;
